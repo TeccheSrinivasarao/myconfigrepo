@@ -12,4 +12,4 @@ spring:
     generate-ddl: true
     show-sql: true
     
-vendorName: paytm3    
+vendorName: paytm4    
